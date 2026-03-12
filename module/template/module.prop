@@ -1,7 +1,6 @@
-id=${moduleId}
-name=${moduleName}
-version=${versionName}
-versionCode=${versionCode}
-author=5ec1cff
-description=Module sample
-#updateJson=
+id=8bp_pro_mod
+name=8 Ball Pool Zygisk
+version=v1.0
+versionCode=1
+author=AbodAlRady
+description=Professional Zygisk module for 8 Ball Pool.
